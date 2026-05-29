@@ -8,7 +8,7 @@ int b = sc.nextInt();
 if(a == b){
     System.out.println("Equal");
 }
-else (a > b){
+else if(a > b){
     System.out.println("a is Greater");
 }
 else{
