@@ -7,5 +7,4 @@ public class Que1 {
         System.out.println("***");
         System.out.println("****");
     }
-    
 }
