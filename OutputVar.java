@@ -6,6 +6,7 @@ public class OutputVar {
         int a = 10;
         int b = 20;
         int sum = a + b;
+
         System.out.println("Name: " + name);
         System.out.println("Pi: " + pi);
         System.out.println("Is Student: " + isStudent);
